@@ -1,0 +1,1 @@
+console.log("Hello Namita to the world of JavaScript");
