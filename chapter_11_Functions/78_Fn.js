@@ -1,5 +1,5 @@
 //without function repeated logic
-let score=85;
+let score=85; // assignment
 let result=score>=70? "Pass":"Fail";
 console.log(result);
 
