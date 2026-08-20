@@ -10,9 +10,9 @@ for(let i=2;i<num;i++)
 }
 if(count==0)
 {
-    console.log("given number is prime number= "+num);
+    console.log("given number is prime number= ", num);
 }
 else
 {
-    console.log("not Prime number="+num);
+    console.log("not Prime number=", num);
 }
