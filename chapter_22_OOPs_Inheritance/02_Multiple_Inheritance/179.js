@@ -1,5 +1,7 @@
 // Mixin concept can help you to perform the multiple inheritance. 
-
+//1st create 1 testclass then add two methods login and screenshot & 
+//this 2 function can given each other
+// but this concept is not used in automation testing because it is not a good practice to use mixin concept in automation testing.
 // Mixin 1: Adds logging ability
 
 // Mixin 1: Adds logging ability
